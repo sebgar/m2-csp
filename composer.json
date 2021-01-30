@@ -19,11 +19,11 @@
       "registration.php"
     ],
     "psr-4": {
-      "Sga\\Scp\\": ""
+      "Sga\\Csp\\": ""
     }
   },
   "keywords": [
     "magento 2",
-    "scp"
+    "csp"
   ]
 }
