@@ -3,4 +3,4 @@
 ## BO
 
 ### Configuration
-![](https://i.ibb.co/Pj0cMsb/csp-config.png)
+![](images/csp_config.png)
